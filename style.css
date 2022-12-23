@@ -1,0 +1,129 @@
+body {
+  background-color: #fff;
+}
+
+.main-title {
+  font-family: "Montserrat", sans-serif;
+  font-size: 3rem;
+  text-align: left;
+  margin: 80px auto 0 100px;
+}
+
+/* Navbar  */
+
+.all-nav {
+  padding: 2rem 4rem 3rem 3rem;
+}
+
+.virus {
+  font-family: "Rubik Gemstones";
+  font-size: 2.6rem;
+}
+
+.navbar-fontstyle {
+  padding: 0 2px;
+  font-size: 1.2rem;
+}
+
+/* Downloads btn */
+
+.btn-get-started {
+  margin: 20px auto 80px 100px;
+}
+
+.btn-download {
+  text-align: center;
+  margin-left: 30px;
+}
+
+/* Title image */
+
+.iphoneImage {
+  width: 48%;
+  margin-left: 25%;
+}
+
+/* Logo  */
+
+.logo {
+  padding: 0 20%;
+}
+
+/* Features Section */
+
+.features {
+  text-align: center;
+  margin: 5% 25%;
+}
+
+.features-info {
+  text-align: center;
+  margin: 2% 8%;
+}
+
+.features-mid {
+  padding: 2%;
+}
+
+/* Hedline Section */
+
+.hedline {
+  margin: 7% 12%;
+}
+
+.hedline-img-bg {
+  background-color: #f1e4ff;
+}
+
+.hedline-iphone {
+  width: 55%;
+  margin: 10% 25% 0 25%;
+}
+
+.hedline-info {
+  text-align: left;
+  margin: 0;
+  padding: 40px;
+}
+
+/* Bottom */
+
+.light-img {
+  width: 755px;
+  margin-left: 250px;
+  margin-bottom: 8%;
+}
+
+.bottom-layout-div {
+  text-align: left;
+  padding: 5% 2%;
+}
+
+.bottom-layout {
+  background-color: #2ec5ce;
+  margin: 0;
+}
+
+/* footer  */
+
+.footer-item {
+  margin: 50px 10px 50px 10px;
+  color: #fff;
+}
+
+.footer-btn {
+  padding: 65px;
+  padding-bottom: 0;
+  margin-left: 85px;
+  margin-top: 5px;
+}
+
+.footer-pera {
+  margin: auto auto 0 55px;
+  color: #fff;
+}
+
+.footer-item-margin {
+  color: white;
+  margin: 0 15px;
+}
